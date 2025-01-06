@@ -1,5 +1,5 @@
 # Keeper App
-[Check out the live site on Vercel](https://keeper-app-woad-nine.vercel.app/)
+[Check out the live site on Vercel](https://keeper-react-app-nine.vercel.app/)
 
 ## What it does
 This is a small clone of the Google Keep note-taking app, with only the features to write and create a note, with title, content and date of creation displayed in each note component.
